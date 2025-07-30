@@ -1,7 +1,7 @@
 Title: Wordkrill: Extending Wordfish into the Multidimensional Political Space
 Version: 0.0.0.9000
 Authors@R: 
-    person("Benjamin", "Riesch", , "benjamin.riesch@univie.ac.at", role = c("aut", "cre"))
+    person("Benjamin", "Riesch", "benjamin.riesch@univie.ac.at", role = c("aut", "cre"))
 Description: Wordkrill fits Wordkrill models (generalisation of Wordfish models to multiple
     dimensions) to document-feature matrices.
 License: MIT + file LICENSE
