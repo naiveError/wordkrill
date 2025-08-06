@@ -301,7 +301,7 @@ wordkrill <- function(dtm, K = NULL,
       y = tY,
       beta = params$beta,
       psi = params$psi,
-      control.outer = list(trace = 0, itmax = 100, eps = tol),
+      control.outer = list(trace = 0, itmax = 500, eps = tol),
       control.optim = list(maxit = 500, factr = 1e7, pgtol = tol, trace = 0)
     )
 
